@@ -1,5 +1,3 @@
 <template>
-  <div>
-   Form
-  </div>
+  <div>Teste 123</div>
 </template>
